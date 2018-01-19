@@ -109,7 +109,7 @@
     "es6-promise": "^4.1.0",
     "hasprop": "0.0.4",
     "isomorphic-fetch": "^2.2.1",
-    "jsontokens": "^0.7.6",
+    "jsontokens": "timkinnane/jsontokens-js#compiled",
     "promise": "^7.1.1",
     "query-string": "^4.3.2",
     "request": "^2.79.0",
